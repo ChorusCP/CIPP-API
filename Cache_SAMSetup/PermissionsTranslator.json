@@ -5276,6 +5276,15 @@
     "value": "Vulnerability.Read.All"
   },
   {
+    "description": "Read all machine profiles",
+    "displayName": "Allows the app to read all machine profiles, including the commands that were sent to each machine",
+    "id": "ea8291d3-4b9a-44b5-bc3a-6cea3026dc79",
+    "Origin": "Application (WindowsDefenderATP)",
+    "userConsentDescription": "Allows the app to read all machine profiles, including the commands that were sent to each machine",
+    "userConsentDisplayName": "Allows the app to read all machine profiles, including the commands that were sent to each machine",
+    "value": "Machine.Read.All"
+  },
+  {
     "description": "Allows the app to read Threat and Vulnerability Management vulnerability information on behalf of the signed-in user",
     "displayName": "Read Threat and Vulnerability Management vulnerability information",
     "id": "41269fc5-d04d-4bfd-bce7-43a51cea049a",
